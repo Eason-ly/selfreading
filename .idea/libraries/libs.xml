@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/android-support-v4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/locSDK_3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/easemobchat_2.1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/fastjson-1.1.34.android.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/baidumapapi_v3_2_0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/easemobchat_2.1.5-7b0118e1e73b78d028023549a8843555.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/baidumapapi_v3_2_0-28e3c9ac0f638d11941fc3c8aea4a2d6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/fastjson-1.1.34.android-598f5f2897e7bb7ccbc15d11ccdace80.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/android-support-v4-2a74553c681c7bec541f67497e017e07.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/locSDK_3.3-2e9e07e606aa1cbac2b4643bd523f521.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
